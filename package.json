@@ -1,6 +1,6 @@
 {
   "name": "discord-oauth2-clientcredentials",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple library to generate client credentials for Discord applications.",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,11 @@
     "client credentials",
     "bearer token"
   ],
+  "homepage": "https://github.com/vaught-dawson/discord-oauth2-clientcredentials",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaught-dawson/discord-oauth2-clientcredentials.git"
+  },
   "author": "vaught-dawson",
   "license": "ISC",
   "dependencies": {
