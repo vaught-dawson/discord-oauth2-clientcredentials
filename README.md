@@ -24,4 +24,4 @@ async function main() {
 ## About the Author
 ##### This package came into existence after I tried to get client credentials for the 'application.commands.update' permission in Discord for two consecutive days. 
 
-Want to show some support? [Buy me a coffee!](paypal.me/dawsonvaught1)
+Want to show some support? [Buy me a coffee!](http://paypal.me/dawsonvaught1)
