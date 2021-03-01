@@ -2,7 +2,7 @@
 ##### This is a basic library to generate client credentials (bearer tokens) for Discord using OAuth2.
 
 ## Installation
-##### Run npm install on command line or terminal.
+##### Run npm install on the command line or terminal.
 ```
 npm install discord-oauth2-clientcredentials
 ```
